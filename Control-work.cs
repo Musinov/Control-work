@@ -12,7 +12,7 @@
 string [,] myArray = {   
     {"hello", "2", "world", ":-)"},
     {"1234", "1567", "-2", "computer science"},
-    {"Russia", "Denmark", "Kazan", ""}};
+    {"Russia", "Denmark", "Kazan", "gjf"}};
        
     for(int i = 0; i < 3; i++) // цикл проверки элементов массива
     {
